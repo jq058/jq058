@@ -11,6 +11,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=jq058&show_icons=true&hide_rank=true" />
 </picture>
+<div style="display: flex; align-items: center;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jq058&show_icons=true&theme=dark&hide_rank=true" width="60%" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="120" />
+
+</div>
 <!--
 **jq058/jq058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

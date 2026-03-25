@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jia+Qi" alt="Typing SVG" />
 </p>
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jq058&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jq058/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jq058a&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jq058/github-readme-stats#gh-light-mode-only)
 <!--
 **jq058/jq058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
